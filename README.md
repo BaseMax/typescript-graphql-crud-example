@@ -2,6 +2,8 @@
 
 A example repository to show how you can create your first GraphQL Restful with TS and not JS.
 
+![](demo.png)
+
 ## Getting start
 
 ```
