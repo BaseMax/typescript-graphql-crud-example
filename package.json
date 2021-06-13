@@ -1,5 +1,5 @@
 {
-  "name": "myapi",
+  "name": "typescript-graphql-crud-example",
   "version": "0.0.1",
   "devDependencies": {
     "@types/express": "^4.17.2",
