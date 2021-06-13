@@ -1,4 +1,4 @@
-# Typescript GraphQl CRUD Example
+# Typescript GraphQL CRUD Example
 
 A example repository to show how you can create your first GraphQL Restful with TS and not JS.
 
