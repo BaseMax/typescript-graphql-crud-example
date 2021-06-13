@@ -13,6 +13,17 @@ yarn start
 
 And open `http://localhost:4000/graphql`
 
+## Create another new project
+
+```
+npx create-graphql-express my-api
+cd my-api
+npm install
+npm run dev
+```
+
+Read more: https://github.com/rafaelnsantos/create-graphql-api
+
 ## Examples
 
 ### Insert/Create
